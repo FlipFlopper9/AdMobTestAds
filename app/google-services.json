@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "902804701712",
+    "firebase_url": "https://admobads-9d9c4.firebaseio.com",
+    "project_id": "admobads-9d9c4",
+    "storage_bucket": "admobads-9d9c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902804701712:android:d379b56fb4e8e6b8",
+        "android_client_info": {
+          "package_name": "sanchit.admob.testads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902804701712-641ndgifrh3sq807u4semk2mq2qgqubc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_SOzg66JHvccTulna54RhFL_tkfzoEzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
